@@ -3,7 +3,7 @@
 
 EX NO: 2	DSB-SC-AM MODULATOR AND DEMODULATOR
 
-AIM:
+AIM
 
 To write a program to perform DSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
 
