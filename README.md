@@ -48,10 +48,14 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
+
+
 <img width="629" height="802" alt="Screenshot 2025-10-09 152640" src="https://github.com/user-attachments/assets/f12b9317-58d0-4595-a347-7e3b21a5417c" />
 
 
 Output Graph
+
+
 <img width="1574" height="809" alt="Screenshot 2025-10-09 152708" src="https://github.com/user-attachments/assets/7e7d9cdb-23be-443f-91ba-ca2c312ad3b7" />
 
 
